@@ -1,5 +1,5 @@
 # Rotten-Apples
-macOS codesigning translocation vulnerability. 
+macOS codesigning translocation vulnerability. (10.x -> 11.3.1)
 
 Original article:
 https://occamsec.com/rotten-apples-macos-codesigning-translocation-vulnerability/
